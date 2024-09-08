@@ -1,7 +1,7 @@
 ## Hola! 👋
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://giphy.com/gifs/microsoft-hackathon-msftgarage-msfthackathon-SXxI9NlwvYiY3bRsck" align="center" style="width: 100%" />
 </div>  
   
 
