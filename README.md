@@ -1,8 +1,8 @@
 ## Hola! 👋
 
-<div align="center">
-<img src= align="center" style="width: 100%" />
-</div>  
+#<div align="center">
+#<img src= align="center" style="width: #100%" />
+#</div>  
   
 
 ### <div align="center">Soy Daniel, Desarrollador Full-Stack Freelance y especialista en ciberseguridad Red Team/Pentester👨‍💻</div>  
