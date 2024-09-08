@@ -1,7 +1,7 @@
 ## Hola! 👋
 
 <div align="center">
-<img src="https://images.app.goo.gl/Y6uixT6HRuHivkX49" align="center" style="width: 100%" />
+<img src= align="center" style="width: 100%" />
 </div>  
   
 
