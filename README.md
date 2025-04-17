@@ -1,7 +1,7 @@
 ## Hola! 👋
 
 
-### <div align="center">Soy Daniel, Desarrollador Full-Stack Freelance y especialista en ciberseguridad Red Team/Pentester👨‍💻</div>  
+### <div align="center">Soy Daniel, Desarrollador Web Full-Stack y especialista en ciberseguridad Red Team/Pentester👨‍💻</div>  
   
 
 - 🔭Actualmente trabajando en el desarrollo de [Github Tasks Manager](https://github.com/DapinvaX/Tasks)  
